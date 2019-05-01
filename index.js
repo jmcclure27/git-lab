@@ -6,4 +6,4 @@ function isPizzaGood(pizza) {
   }
 }
 
-isPizzaGood("pepperoni")
+isPizzaGood("cheese")
